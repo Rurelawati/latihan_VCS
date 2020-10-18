@@ -12,4 +12,7 @@ Latihan 1
 setelah itu, program 1 akan ada folder baru di dalamnya yaitu "latihan1"
 
 4. Langkah selanjutnya masuk ke dalam folder "latihan1" dengan mengetik "cd latihan1", seperti berikut:
+![1 3](https://user-images.githubusercontent.com/72727632/96370424-eda1e780-1187-11eb-86ab-b828c21b4123.png)
+
+5. Buatlah folder tersebut menjadi repo (repository) dengan cara "git init". jika benar ada gambar akan seperti dibawah ini:
 
