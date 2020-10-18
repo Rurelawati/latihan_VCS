@@ -43,6 +43,13 @@ maka warna file akan berubah menjadi warna hijau. tanda nya sudah di add
 ![2 0](https://user-images.githubusercontent.com/72727632/96371571-7ae73b00-118c-11eb-83e3-fb691cb4f7f6.png)
 
 11. Selanjutnya mengisi nama repositorinya "Repository name"
+![2 1](https://user-images.githubusercontent.com/72727632/96371718-5c357400-118d-11eb-9eee-0a3dfda7873b.png)
+- isi nama repositorry nya dengan nama "latihan_VCS" , untuk nama repository bisa menyesuaikan sesuai keperluan.
+- selanjutnya isi description. diusahakan sejelas mungkin agar memudahkan pencarian.
+- pilih public
+- lalu create repositorinya.
+
+12. Setelah create repositorinya, maka akan muncul gambar sebagi berikut:
 
   
 
