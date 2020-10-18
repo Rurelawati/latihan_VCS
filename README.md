@@ -15,4 +15,8 @@ setelah itu, program 1 akan ada folder baru di dalamnya yaitu "latihan1"
 ![1 3](https://user-images.githubusercontent.com/72727632/96370424-eda1e780-1187-11eb-86ab-b828c21b4123.png)
 
 5. Buatlah folder tersebut menjadi repo (repository) dengan cara "git init". jika benar ada gambar akan seperti dibawah ini:
+![1 4](https://user-images.githubusercontent.com/72727632/96370570-85073a80-1188-11eb-84d9-474c5a57ce46.png)
+jika sudah seperti ini artinya folder sudah menjadi repo
+
+6. Setelah itu buat file README.md dengan mengetik "echo latihan1 >>README.md" 
 
