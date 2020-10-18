@@ -54,6 +54,8 @@ maka warna file akan berubah menjadi warna hijau. tanda nya sudah di add
 copy link tersebut untuk menghubungkan antara akun github dengan akun git yang ada di laptop/pc.
 
 13. Cara menghubungkannya, ketiklah "git remote add origin <link>"
+![2 3](https://user-images.githubusercontent.com/72727632/96372052-41fc9580-118f-11eb-99b4-ccd0f5647769.png)
 
-  
+14. Langkah selanjutnya ketik "git push -u origin master"
+
 
