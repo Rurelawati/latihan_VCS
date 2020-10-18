@@ -8,4 +8,8 @@ Latihan 1
 ![1 1](https://user-images.githubusercontent.com/72727632/96370055-ceef2100-1186-11eb-9026-c4fab7952a28.png)
 
 3. Kemudian membuat folder dengan mengetik pada terminal "mkdir latihan1"
+![1 2](https://user-images.githubusercontent.com/72727632/96370206-41f89780-1187-11eb-8067-ec5a7a7b281a.png)
+setelah itu, program 1 akan ada folder baru di dalamnya yaitu "latihan1"
+
+4. Langkah selanjutnya masuk ke dalam folder "latihan1" dengan mengetik "cd latihan1", seperti berikut:
 
