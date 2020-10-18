@@ -25,4 +25,8 @@ jika sudah seperti ini artinya folder sudah menjadi repo
 ![1 5](https://user-images.githubusercontent.com/72727632/96370600-9a7c6480-1188-11eb-8e1e-31ee8feef3bf.png
 
 7. Check file, apakah sudah terdaftar atau belum, dengan mengetik "git status", seperti ini:
+![1 6](https://user-images.githubusercontent.com/72727632/96370609-9f411880-1188-11eb-8629-1af7615fd15d.png)
+warna merah tersebut menandakan file belum di add.
 
+8. Selanjutnya ketik "git add <file>" atau jika file yang berwarna merah lebih dari satu ketik (git add.)
+  
