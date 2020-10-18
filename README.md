@@ -30,7 +30,12 @@ warna merah tersebut menandakan file belum di add.
 
 8. Selanjutnya ketik "git add <file>" atau jika file yang berwarna merah lebih dari satu ketik (git add.)
   ![1 7](https://user-images.githubusercontent.com/72727632/96371087-45415280-118a-11eb-9bd5-1894a0112ec1.png)
-untuk mengecek "git status" 
+untuk kembali mengecek apalkah sudah terdaftar, klik kembali "git status" 
+  ![1 8](https://user-images.githubusercontent.com/72727632/96371172-9f421800-118a-11eb-80e0-f0977d27efeb.png)
+  maka warna file akan berubah menjadi warna hijau. tanda nya sudah di add
+  
+ 9. Langkah selanjutnya commit file tersebut dengan mengetik (git commit -m "pesan") 
+ 
   
   
 
