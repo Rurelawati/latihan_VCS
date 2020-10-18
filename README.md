@@ -29,4 +29,8 @@ jika sudah seperti ini artinya folder sudah menjadi repo
 warna merah tersebut menandakan file belum di add.
 
 8. Selanjutnya ketik "git add <file>" atau jika file yang berwarna merah lebih dari satu ketik (git add.)
+  ![1 7](https://user-images.githubusercontent.com/72727632/96371087-45415280-118a-11eb-9bd5-1894a0112ec1.png)
+untuk mengecek "git status" 
   
+  
+
