@@ -57,5 +57,16 @@ copy link tersebut untuk menghubungkan antara akun github dengan akun git yang a
 ![2 3](https://user-images.githubusercontent.com/72727632/96372052-41fc9580-118f-11eb-99b4-ccd0f5647769.png)
 
 14. Langkah selanjutnya ketik "git push -u origin master"
+![2 4](https://user-images.githubusercontent.com/72727632/96372194-01e9e280-1190-11eb-94f8-c14084cbbc13.png)
+dan file sudah terhubung dengan git anda.
 
 
+
+Pesan:
+- mkdir <file name> (untuk membuat file baru)
+- git init (untuk membuat depository local)
+- git status (untuk mengecek apakah ada perubahan di dalam file)
+- git add (untuk menambahkan file baru)
+- git commit (untuk menyimpan perubahan ke dalam database git)
+- git remote (untuk menghubungkan file ke github)
+- git push (untuk mengupload file ke github)
