@@ -1,6 +1,9 @@
 Nama    : Rurelawati
+
 NIM     : 312010377
+
 Kelas   : TI.20.A.2
+
 
 Latihan 1
 1. Langkah pertama membuat folder "program 1", saya membuat folder di dekstop komputer.
@@ -19,4 +22,7 @@ setelah itu, program 1 akan ada folder baru di dalamnya yaitu "latihan1"
 jika sudah seperti ini artinya folder sudah menjadi repo
 
 6. Setelah itu buat file README.md dengan mengetik "echo latihan1 >>README.md" 
+![1 5](https://user-images.githubusercontent.com/72727632/96370600-9a7c6480-1188-11eb-8e1e-31ee8feef3bf.png
+
+7. Check file, apakah sudah terdaftar atau belum, dengan mengetik "git status", seperti ini:
 
