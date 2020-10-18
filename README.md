@@ -22,7 +22,7 @@ setelah itu, program 1 akan ada folder baru di dalamnya yaitu "latihan1"
 jika sudah seperti ini artinya folder sudah menjadi repo
 
 6. Setelah itu buat file README.md dengan mengetik "echo latihan1 >>README.md" 
-![1 5](https://user-images.githubusercontent.com/72727632/96370600-9a7c6480-1188-11eb-8e1e-31ee8feef3bf.png
+![1 5](https://user-images.githubusercontent.com/72727632/96370600-9a7c6480-1188-11eb-8e1e-31ee8feef3bf.png)
 
 7. Check file, apakah sudah terdaftar atau belum, dengan mengetik "git status", seperti ini:
 ![1 6](https://user-images.githubusercontent.com/72727632/96370609-9f411880-1188-11eb-8629-1af7615fd15d.png)
@@ -40,6 +40,9 @@ maka warna file akan berubah menjadi warna hijau. tanda nya sudah di add
 
 10. Langkah selanjutnya membuat akun github http:github.com
 11. Jika sudah membuat akun github, buatlah repositori yang bar dengan klik "new repository"
+![2 0](https://user-images.githubusercontent.com/72727632/96371571-7ae73b00-118c-11eb-83e3-fb691cb4f7f6.png)
+
+11. Selanjutnya mengisi nama repositorinya "Repository name"
 
   
 
