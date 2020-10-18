@@ -50,6 +50,10 @@ maka warna file akan berubah menjadi warna hijau. tanda nya sudah di add
 - lalu create repositorinya.
 
 12. Setelah create repositorinya, maka akan muncul gambar sebagi berikut:
+![2 2](https://user-images.githubusercontent.com/72727632/96371914-69069780-118e-11eb-922b-30bccd5e42de.png)
+copy link tersebut untuk menghubungkan antara akun github dengan akun git yang ada di laptop/pc.
+
+13. Cara menghubungkannya, ketiklah "git remote add origin <link>"
 
   
 
